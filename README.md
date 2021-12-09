@@ -2,4 +2,5 @@
 
 Calculadora criada usando o Framwork Angular voltado para Web com a Vscode sendo o editor de código, Testes realizado no Jasmine, código disponivel na Branch Master, desenvolvido com a ajuda da escola Udemy.
 
-https://user-images.githubusercontent.com/55770645/145402847-d624c144-fbf0-45ac-840a-fe0bb7862022.mp4/
+https://user-images.githubusercontent.com/55770645/145404544-d9cb4e7a-8251-4041-9d7d-f1ead5fef70b.mp4
+
